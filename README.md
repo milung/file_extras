@@ -1,4 +1,4 @@
-# Execution Context
+# Extra file utilities
 
 Prolog module for simplifying some common operation on the file system (e.g. traversing folder structure)
 
